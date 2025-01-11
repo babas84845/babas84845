@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @babas84845
 - 👀 I’m interested in Mathematics and Computing.
-- 🌱 I’m currently learning GUI Development for Desktops using PySide6.
+- 🌱 I’m currently majoring in Computer Science.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: @babas84845 on Telegram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I frequently watch League of Legends eSports matches.
 

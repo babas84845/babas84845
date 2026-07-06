@@ -2,9 +2,9 @@
 - 👀 I’m interested in Mathematics and Computing.
 - 🌱 I’m currently majoring in Computer Science.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: @babas84845 on Telegram
+- 📫 How to reach me: limcrui05@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I frequently watch League of Legends eSports matches.
+- ⚡ Fun fact: I am into football, dance, contract bridge, esports...
 
 <!---
 babas84845/babas84845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
